@@ -58,6 +58,7 @@
            var div  = a/b;
            console.log(div);
             document.getElementById("show").value = div;
+// commit
           
         }
         }
